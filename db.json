@@ -439,6 +439,28 @@
       "sideEffects": "May cause burns if used on bare skin or with very hot water.",
       "brand": "Flamingo",
       "category": "Elderly Care"
+    },
+    {
+      "id": "4117",
+      "name": "Amoxicillin 250mg",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/3/FA/EO/ID/10929866/amoxicillin-capsule.jpg",
+      "price": "85",
+      "precuations": "Avoid if allergic to penicillin. Take after food.",
+      "usedFor": "Bacterial infections, throat infection",
+      "sideEffects": "Diarrhea, nausea, skin rash",
+      "brand": "GSK",
+      "category": "Health Care Devices"
+    },
+    {
+      "id": "b006",
+      "name": "Crocin Advance",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-tkRjv2CD9QUkqIxqzOmRi5ws-lTCI3iug&s",
+      "price": "30",
+      "precuations": "Do not exceed 4 tablets a day.",
+      "usedFor": "Fever, headache, muscle pain",
+      "sideEffects": "Dizziness (rare)",
+      "brand": "GSK",
+      "category": "Personal Care"
     }
   ],
   "user": [
