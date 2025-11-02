@@ -1,17 +1,6 @@
 {
   "medicine": [
     {
-      "id": "1",
-      "name": "Dettol Antiseptic Liquid",
-      "image": "https://example.com/dettol.jpg",
-      "price": "120",
-      "precuations": "Use only on external areas. Avoid direct contact with eyes or mouth. Keep tightly closed and store away from sunlight and flames. Always dilute before applying to the skin.",
-      "usedFor": "Disinfecting wounds and personal hygiene",
-      "sideEffects": "May cause slight burning or irritation if used undiluted. Rarely, redness or dryness may occur in sensitive skin.",
-      "brand": "Dettol",
-      "category": "Personal Care"
-    },
-    {
       "id": "2",
       "name": "Himalaya Face Wash",
       "image": "https://example.com/himalaya-facewash.jpg",
@@ -461,6 +450,17 @@
       "sideEffects": "Dizziness (rare)",
       "brand": "GSK",
       "category": "Personal Care"
+    },
+    {
+      "name": "Accu-Chek Active Glucometer",
+      "image": "https://img.tatacliq.com/images/i8/1348Wx2000H/MP000000012911122_1348Wx2000H_202204232220021.jpeg",
+      "price": "999",
+      "precuations": "Handle carefully. Keep strips sealed and dry.",
+      "usedFor": "Monitoring blood sugar levels",
+      "sideEffects": "None",
+      "brand": "Roche",
+      "category": "Health Care Devices",
+      "id": "a611"
     }
   ],
   "user": [
@@ -528,7 +528,7 @@
       "gmail": "amjadshaji06@gmail.com",
       "password": "amjads06",
       "Cart": [],
-      "status": "Pending"
+      "status": "Accepted"
     },
     {
       "id": "u72524",
@@ -537,7 +537,7 @@
       "gmail": "sijishaji@gmail.com",
       "password": "sijishaji",
       "Cart": [],
-      "status": "Pending"
+      "status": "Accepted"
     }
   ],
   "bookings": [
