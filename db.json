@@ -450,15 +450,10 @@
       "gmail": "akash@gmail.com",
       "Cart": [
         {
-          "medicineId": 1,
+          "medicineId": "1",
           "name": "Paracetamol 500mg",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5B0MlyqKdJDSRU_qf6gcRuyUCGpTOMJ8dQ&s",
           "price": "25",
-          "quantity": 2
-        },
-        {
-          "medicineId": 2,
-          "name": "Vitamin C Tablets",
-          "price": "150",
           "quantity": 1
         }
       ]
