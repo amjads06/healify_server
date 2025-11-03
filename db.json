@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Dettol Antiseptic Liquid",
-      "image": "https://example.com/dettol.jpg",
+      "image": "https://ik.imagekit.io/wlfr/wellness/images/products/203545-1.jpg/tr:w-3840,c-at_max,cm-pad_resize,ar-1210-700,pr-true,f-auto,q-70,l-image,i-Wellness_logo_BDwqbQao9.png,lfo-bottom_right,w-200,h-90,c-at_least,cm-pad_resize,l-end",
       "price": "120",
       "precuations": "Use only on external areas. Avoid direct contact with eyes or mouth. Keep tightly closed and store away from sunlight and flames. Always dilute before applying to the skin.",
       "usedFor": "Disinfecting wounds and personal hygiene",
@@ -14,7 +14,7 @@
     {
       "id": "2",
       "name": "Himalaya Face Wash",
-      "image": "https://example.com/himalaya-facewash.jpg",
+      "image": "https://themedihubpharma.in/wp-content/uploads/2024/04/Himalaya-Purifying-Neem-Face-Wash-For-Acne-and-Pimple-Relief-100ml.png",
       "price": "85",
       "precuations": "Avoid contact with eyes. Use twice daily for best results. Store in a cool, dry place and keep away from children.",
       "usedFor": "Cleansing and refreshing face",
@@ -25,7 +25,7 @@
     {
       "id": "3",
       "name": "Vaseline Petroleum Jelly",
-      "image": "https://example.com/vaseline.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUmnGKyTAhd5Zj0v65k01zIfqomDpeUkaeA&s",
       "price": "65",
       "precuations": "For external use only. Avoid applying inside the nose or near eyes. Keep container clean and closed after each use.",
       "usedFor": "Moisturizing dry skin and lips",
@@ -36,7 +36,7 @@
     {
       "id": "4",
       "name": "Dove Body Lotion",
-      "image": "https://example.com/dove-lotion.jpg",
+      "image": "https://images-static.nykaa.com/media/catalog/product/9/a/9aa01c08901030979316_2N.jpg?tr=w-500",
       "price": "199",
       "precuations": "Apply evenly on clean, dry skin. Avoid use on open cuts or wounds. Keep away from extreme heat.",
       "usedFor": "Skin nourishment",
@@ -47,7 +47,7 @@
     {
       "id": "5",
       "name": "Listerine Mouthwash",
-      "image": "https://example.com/listerine.jpg",
+      "image": "https://m.media-amazon.com/images/I/519InASfgtL.jpg",
       "price": "150",
       "precuations": "Do not swallow. Use only the directed amount. Keep away from children and avoid use under 12 years of age without medical advice.",
       "usedFor": "Oral hygiene and bad breath",
@@ -58,7 +58,7 @@
     {
       "id": "6",
       "name": "Vitamin C Tablets",
-      "image": "https://example.com/vitamin-c.jpg",
+      "image": "https://m.media-amazon.com/images/I/61Q-+KR3WcL._AC_UF894,1000_QL80_.jpg",
       "price": "180",
       "precuations": "Take after meals with water. Do not exceed the recommended dose. Store in a cool, dry place away from sunlight.",
       "usedFor": "Immunity and skin health",
@@ -69,7 +69,7 @@
     {
       "id": "7",
       "name": "Zincovit Multivitamin",
-      "image": "https://example.com/zincovit.jpg",
+      "image": "https://images.apollo247.in/pub/media/catalog/product/Z/I/ZIN0036_1_1.jpg",
       "price": "130",
       "precuations": "Take one tablet daily after food. Keep away from moisture and out of reach of children.",
       "usedFor": "Vitamin and mineral deficiency",
@@ -80,7 +80,7 @@
     {
       "id": "8",
       "name": "Protinex Powder",
-      "image": "https://example.com/protinex.jpg",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/I48396/protinex-original-adult-nutritional-drink-mix-for-recovery-with-high-protein-jar-400-gm-6.1-1730792775.jpg",
       "price": "550",
       "precuations": "Mix well in milk or water before use. Not suitable for people with kidney disorders unless prescribed. Store airtight.",
       "usedFor": "Protein supplement",
@@ -91,7 +91,7 @@
     {
       "id": "9",
       "name": "Revital H Capsules",
-      "image": "https://example.com/revital.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcU15C4hi-hu1Q6zMroO2lWueQ8GHeyIx_Pw&s",
       "price": "270",
       "precuations": "Consume one capsule daily after breakfast. Do not exceed dosage. Keep sealed tightly.",
       "usedFor": "Energy and stamina booster",
@@ -102,7 +102,7 @@
     {
       "id": "10",
       "name": "Ensure Nutritional Drink",
-      "image": "https://example.com/ensure.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_E2zMPm1nZI-7-uQGvVvg6XbyUhPS9xX9oQ&s",
       "price": "650",
       "precuations": "Shake well before use. Keep container closed. Do not freeze or heat directly. Use within 3 weeks after opening.",
       "usedFor": "Complete nutrition supplement",
@@ -111,334 +111,345 @@
       "category": "Nutrition Supplements"
     },
     {
-      "id": "11",
       "name": "Dabur Chyawanprash",
-      "image": "https://example.com/chyawanprash.jpg",
+      "image": "https://www.bbassets.com/media/uploads/p/xl/40280266_1-dabur-chyawanprash-awaleha-with-goodness-of-jaggery-boosts-immunity.jpg",
       "price": "250",
       "precuations": "Consume one spoon twice daily with milk or water. Store in a cool, dry place. Not recommended for diabetics without advice.",
       "usedFor": "Immunity and strength",
       "sideEffects": "Excess use may lead to acidity or weight gain due to sugar content.",
       "brand": "Dabur",
-      "category": "Ayurvedic Products"
+      "category": "Ayurvedic Products",
+      "id": "11"
     },
     {
-      "id": "12",
       "name": "Patanjali Aloe Vera Juice",
-      "image": "https://example.com/aloe-vera.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ33kqhI5sdFkEFMKDr-Z1wjWCZWNOS6Uh5Ow&s",
       "price": "180",
       "precuations": "Shake before use. Consume on an empty stomach. Avoid during pregnancy unless advised by doctor.",
       "usedFor": "Digestion and detoxification",
       "sideEffects": "Overuse may cause diarrhea or abdominal cramps.",
       "brand": "Patanjali",
-      "category": "Ayurvedic Products"
+      "category": "Ayurvedic Products",
+      "id": "12"
     },
     {
-      "id": "13",
       "name": "Himalaya Ashwagandha Tablets",
-      "image": "https://example.com/ashwagandha.jpg",
+      "image": "https://m.media-amazon.com/images/I/71YESObJgsL.jpg",
       "price": "190",
       "precuations": "Take one tablet daily with water. Avoid use during pregnancy. Store away from moisture.",
       "usedFor": "Stress relief and vitality",
       "sideEffects": "Mild sleepiness or stomach upset may occur in some users.",
       "brand": "Himalaya",
-      "category": "Ayurvedic Products"
+      "category": "Ayurvedic Products",
+      "id": "13"
     },
     {
-      "id": "14",
       "name": "Kerala Ayurveda Triphala",
-      "image": "https://example.com/triphala.jpg",
+      "image": "https://keralaayurveda.biz/cdn/shop/files/F2TAA1812-NO-1.webp?v=1749799901&width=1500",
       "price": "220",
       "precuations": "Take before bedtime with warm water. Do not exceed recommended dose. Keep sealed tightly.",
       "usedFor": "Digestive health",
       "sideEffects": "May cause loose stools if consumed in excess.",
       "brand": "Kerala Ayurveda",
-      "category": "Ayurvedic Products"
+      "category": "Ayurvedic Products",
+      "id": "14"
     },
     {
-      "id": "15",
       "name": "Baidyanath Shilajit",
-      "image": "https://example.com/shilajit.jpg",
+      "image": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/c/5/c52bfed8901220682248_1.jpg",
       "price": "450",
       "precuations": "Take only as per recommended dose. Avoid if you have gout or kidney problems.",
       "usedFor": "Energy and stamina",
       "sideEffects": "Overuse may lead to mild dizziness or heat sensation.",
       "brand": "Baidyanath",
-      "category": "Ayurvedic Products"
+      "category": "Ayurvedic Products",
+      "id": "15"
     },
     {
-      "id": "16",
       "name": "Johnson’s Baby Oil",
-      "image": "https://example.com/johnsons-oil.jpg",
+      "image": "https://m.media-amazon.com/images/I/51hHBrQ-YyL.jpg",
       "price": "120",
       "precuations": "Use externally only. Avoid contact with baby’s eyes or mouth. Keep bottle tightly closed.",
       "usedFor": "Baby skin nourishment",
       "sideEffects": "Rarely may cause minor rash if baby has sensitive skin.",
       "brand": "Johnson’s",
-      "category": "Mother and Baby Care"
+      "category": "Mother and Baby Care",
+      "id": "16"
     },
     {
-      "id": "17",
       "name": "Pampers Diapers",
-      "image": "https://example.com/pampers.jpg",
+      "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/diaper/7/m/k/l-all-round-protection-l-64-pants-large-size-baby-diapers-64-original-imah9c9vewurpbgy.jpeg?q=90",
       "price": "350",
       "precuations": "Change diapers frequently to prevent rashes. Dispose responsibly. Keep in a clean, dry place.",
       "usedFor": "Baby hygiene",
       "sideEffects": "Prolonged use may cause rashes or redness on skin.",
       "brand": "Pampers",
-      "category": "Mother and Baby Care"
+      "category": "Mother and Baby Care",
+      "id": "17"
     },
     {
-      "id": "18",
       "name": "Nestle Lactogen 1",
-      "image": "https://example.com/lactogen.jpg",
+      "image": "https://m.media-amazon.com/images/I/71Bm2ABE8LL.jpg",
       "price": "500",
       "precuations": "Prepare with clean, boiled water. Use freshly made formula each time. Do not store prepared feed.",
       "usedFor": "Infant nutrition",
       "sideEffects": "Overfeeding may cause constipation or spit-up.",
       "brand": "Nestle",
-      "category": "Mother and Baby Care"
+      "category": "Mother and Baby Care",
+      "id": "18"
     },
     {
-      "id": "19",
       "name": "Himalaya Baby Soap",
-      "image": "https://example.com/baby-soap.jpg",
+      "image": "https://images-static.nykaa.com/media/catalog/product/d/3/d3a5b678901138511838as__1_.jpg?tr=w-500",
       "price": "80",
       "precuations": "Use gentle water to lather. Avoid eye contact. Store away from direct heat.",
       "usedFor": "Baby skin care",
       "sideEffects": "Very rare mild irritation in extremely sensitive skin.",
       "brand": "Himalaya",
-      "category": "Mother and Baby Care"
+      "category": "Mother and Baby Care",
+      "id": "19"
     },
     {
-      "id": "20",
       "name": "Sebamed Baby Lotion",
-      "image": "https://example.com/sebamed.jpg",
+      "image": "https://m.media-amazon.com/images/I/51t20v6w1sL.jpg",
       "price": "480",
       "precuations": "Apply on clean, dry skin after bath. Avoid contact with eyes. Keep tightly closed.",
       "usedFor": "Moisturizing baby skin",
       "sideEffects": "May cause mild redness in some infants if allergic to ingredients.",
       "brand": "Sebamed",
-      "category": "Mother and Baby Care"
+      "category": "Mother and Baby Care",
+      "id": "20"
     },
     {
-      "id": "21",
       "name": "Refresh Tears Eye Drops",
-      "image": "https://example.com/refresh.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZ5KM-kUGiYeU9Wi3U4GhC-4aVT8EGa0ZiQ&s",
       "price": "180",
       "precuations": "Do not touch the dropper tip. Use within one month of opening. Avoid sharing with others.",
       "usedFor": "Dry eyes relief",
       "sideEffects": "Temporary blurred vision or mild stinging may occur.",
       "brand": "Allergan",
-      "category": "Eye Care Products"
+      "category": "Eye Care Products",
+      "id": "21"
     },
     {
-      "id": "22",
       "name": "Itone Eye Drops",
-      "image": "https://example.com/itone.jpg",
+      "image": "https://m.media-amazon.com/images/I/41MZ2KhIydL.jpg",
       "price": "95",
       "precuations": "Wash hands before use. Do not use expired drops. Store away from sunlight.",
       "usedFor": "Eye cooling and cleansing",
       "sideEffects": "Mild stinging for a few seconds after application.",
       "brand": "Itone",
-      "category": "Eye Care Products"
+      "category": "Eye Care Products",
+      "id": "22"
     },
     {
-      "id": "23",
       "name": "Bausch & Lomb Renu Solution",
-      "image": "https://example.com/renu.jpg",
+      "image": "https://m.media-amazon.com/images/I/61-1xQ-hvBL.jpg",
       "price": "350",
       "precuations": "Use only for cleaning lenses. Do not touch bottle tip. Replace solution every 30 days.",
       "usedFor": "Contact lens cleaning",
       "sideEffects": "Eye irritation or dryness if solution is reused or contaminated.",
       "brand": "Bausch & Lomb",
-      "category": "Eye Care Products"
+      "category": "Eye Care Products",
+      "id": "23"
     },
     {
-      "id": "24",
       "name": "Tears Naturale Eye Drops",
-      "image": "https://example.com/tears-naturale.jpg",
+      "image": "https://davai24.com/wp-content/uploads/2021/06/Tears-Naturale-II-1617968845-10002609-1.jpg",
       "price": "200",
       "precuations": "Do not wear contact lenses immediately after use. Keep bottle tightly closed.",
       "usedFor": "Lubricating dry eyes",
       "sideEffects": "Mild irritation or watery eyes for a short time.",
       "brand": "Alcon",
-      "category": "Eye Care Products"
+      "category": "Eye Care Products",
+      "id": "24"
     },
     {
-      "id": "25",
       "name": "Optrex Eye Wash",
-      "image": "https://example.com/optrex.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQed8EwZcLPzIlj9YX1lWrHetqow4cRNuFGOw&s",
       "price": "250",
       "precuations": "Always use clean eyewash cup. Discard used liquid after one wash.",
       "usedFor": "Cleansing and soothing eyes",
       "sideEffects": "May cause a brief tingling sensation when used.",
       "brand": "Optrex",
-      "category": "Eye Care Products"
+      "category": "Eye Care Products",
+      "id": "25"
     },
     {
-      "id": "26",
       "name": "Benadryl Cough Syrup",
-      "image": "https://example.com/benadryl.jpg",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6b989d08cf52495b85750e04fa43ee1b.jpg",
       "price": "120",
       "precuations": "Shake well before use. Avoid driving or operating machinery. Do not mix with alcohol.",
       "usedFor": "Cough and cold relief",
       "sideEffects": "Can cause drowsiness, dry mouth, or dizziness.",
       "brand": "Benadryl",
-      "category": "Cold and Cough Products"
+      "category": "Cold and Cough Products",
+      "id": "26"
     },
     {
-      "id": "27",
       "name": "Vicks Vaporub",
-      "image": "https://example.com/vicks.jpg",
+      "image": "https://images.ctfassets.net/sabbecbbwaz3/5UQfzv3Xnq4QneD4sKcW1o/75e731b5be0e7ee9e74f8262df756ac5/VVR_100g_Jar_Closed.png",
       "price": "95",
       "precuations": "Apply externally only. Do not use on open wounds or near nostrils of infants.",
       "usedFor": "Cold and nasal congestion",
       "sideEffects": "May cause a burning feeling if used on sensitive skin.",
       "brand": "Vicks",
-      "category": "Cold and Cough Products"
+      "category": "Cold and Cough Products",
+      "id": "27"
     },
     {
-      "id": "28",
       "name": "Cofsils Lozenges",
-      "image": "https://example.com/cofsils.jpg",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/71ab4507467d48afb140e2eb50038eff.jpg",
       "price": "40",
       "precuations": "Allow lozenge to dissolve slowly. Do not chew. Store in a dry place.",
       "usedFor": "Sore throat relief",
       "sideEffects": "Excess use may cause numbness in mouth or mild stomach upset.",
       "brand": "Cofsils",
-      "category": "Cold and Cough Products"
+      "category": "Cold and Cough Products",
+      "id": "28"
     },
     {
-      "id": "29",
       "name": "Sinarest Tablets",
-      "image": "https://example.com/sinarest.jpg",
+      "image": "https://m.media-amazon.com/images/I/61jOzTZhT1L._AC_UF1000,1000_QL80_.jpg",
       "price": "60",
       "precuations": "Take after food with water. Avoid alcohol or driving after taking. Keep away from children.",
       "usedFor": "Cold and allergy relief",
       "sideEffects": "Drowsiness, dry mouth, or mild dizziness may occur.",
       "brand": "Sinarest",
-      "category": "Cold and Cough Products"
+      "category": "Cold and Cough Products",
+      "id": "29"
     },
     {
-      "id": "30",
       "name": "Honitus Herbal Cough Syrup",
-      "image": "https://example.com/honitus.jpg",
+      "image": "https://frankrosspharmacy.com/_next/image?url=https%3A%2F%2Femami-production-2.s3.amazonaws.com%2Fvariant_images%2Ffiles%2F000%2F014%2F112%2Fnormal_webp%2FFR-15727.webp%3F1650008445&w=640&q=75",
       "price": "110",
       "precuations": "Shake bottle well before use. Use the measuring cap for accurate dosage. Store below 30°C.",
       "usedFor": "Dry and productive cough",
       "sideEffects": "Generally safe, may cause mild stomach upset in rare cases.",
       "brand": "Dabur",
-      "category": "Cold and Cough Products"
+      "category": "Cold and Cough Products",
+      "id": "30"
     },
     {
-      "id": "31",
       "name": "Omron BP Monitor",
-      "image": "https://example.com/omron-bp.jpg",
+      "image": "https://cdn01.pharmeasy.in/dam/products_otc/Y79335/omron-hem-7124-bp-monitor-6.6-1757587253.jpg?dim=480x480&q=75",
       "price": "1800",
       "precuations": "Read the manual carefully before first use. Sit calmly for a few minutes before measuring.",
       "usedFor": "Measuring blood pressure",
       "sideEffects": "No direct side effects; incorrect usage may give inaccurate readings.",
       "brand": "Omron",
-      "category": "Health Care Devices"
+      "category": "Health Care Devices",
+      "id": "31"
     },
     {
-      "id": "32",
       "name": "Dr. Morepen Glucometer",
-      "image": "https://example.com/morepen-glucometer.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ-gVBj6_MzdIKubuEDRMTGdoSns7avcJW_w&s",
       "price": "750",
       "precuations": "Clean device regularly. Use only compatible strips. Do not reuse lancets.",
       "usedFor": "Blood sugar monitoring",
       "sideEffects": "Slight finger prick pain may occur while testing.",
       "brand": "Dr. Morepen",
-      "category": "Health Care Devices"
+      "category": "Health Care Devices",
+      "id": "32"
     },
     {
-      "id": "33",
       "name": "Accu-Chek Test Strips",
-      "image": "https://example.com/accu-chek.jpg",
+      "image": "https://m.media-amazon.com/images/I/51zfOBr7-3L.jpg",
       "price": "900",
       "precuations": "Store in a cool, dry place. Close the vial immediately after removing a strip.",
       "usedFor": "Blood sugar testing",
       "sideEffects": "No known side effects.",
       "brand": "Accu-Chek",
-      "category": "Health Care Devices"
+      "category": "Health Care Devices",
+      "id": "33"
     },
     {
-      "id": "34",
       "name": "Digital Thermometer",
-      "image": "https://example.com/thermometer.jpg",
+      "image": "https://magicmed.in/wp-content/uploads/2020/09/digital-thermometer.jpg",
       "price": "150",
       "precuations": "Clean tip before and after each use. Do not immerse entire device in water.",
       "usedFor": "Temperature measurement",
       "sideEffects": "None, unless used incorrectly causing inaccurate results.",
       "brand": "Dr. Trust",
-      "category": "Health Care Devices"
+      "category": "Health Care Devices",
+      "id": "34"
     },
     {
-      "id": "35",
       "name": "Pulse Oximeter",
-      "image": "https://example.com/oximeter.jpg",
+      "image": "https://m.media-amazon.com/images/I/6189MAMYiqL._AC_UF1000,1000_QL80_.jpg",
       "price": "1100",
       "precuations": "Ensure fingers are clean and warm. Avoid bright light during reading.",
       "usedFor": "Oxygen level monitoring",
       "sideEffects": "Temporary finger marks if used for long periods.",
       "brand": "BPL",
-      "category": "Health Care Devices"
+      "category": "Health Care Devices",
+      "id": "35"
     },
     {
-      "id": "36",
       "name": "Adult Diapers",
-      "image": "https://example.com/adult-diapers.jpg",
+      "image": "https://m.media-amazon.com/images/I/51Z7BTOYY7L.jpg",
       "price": "450",
       "precuations": "Change frequently to prevent rashes. Dispose properly. Do not flush.",
       "usedFor": "Incontinence care",
       "sideEffects": "Prolonged use may cause mild rash or irritation.",
       "brand": "Friends",
-      "category": "Elderly Care"
+      "category": "Elderly Care",
+      "id": "36"
     },
     {
-      "id": "37",
       "name": "Walker with Wheels",
-      "image": "https://example.com/walker.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIi0q5BAX1STrqUJaETdwcIkfVYy5BKIqmg&s",
       "price": "2400",
       "precuations": "Adjust height properly before use. Use on flat surfaces. Check grips regularly.",
       "usedFor": "Mobility support",
       "sideEffects": "No side effects if used correctly.",
       "brand": "Vissco",
-      "category": "Elderly Care"
+      "category": "Elderly Care",
+      "id": "37"
     },
     {
-      "id": "38",
       "name": "Heating Pad",
-      "image": "https://example.com/heating-pad.jpg",
+      "image": "https://m.media-amazon.com/images/I/71meJz02JwL._AC_UF1000,1000_QL80_.jpg",
       "price": "650",
       "precuations": "Do not use continuously for long periods. Avoid using while sleeping.",
       "usedFor": "Pain and muscle relief",
       "sideEffects": "May cause mild redness if used too long or at high temperature.",
       "brand": "Hicks",
-      "category": "Elderly Care"
+      "category": "Elderly Care",
+      "id": "38"
     },
     {
-      "id": "39",
       "name": "Wheelchair Foldable",
-      "image": "https://example.com/wheelchair.jpg",
+      "image": "https://aeoncare.in/cdn/shop/files/BuywheelchairatlowestpriceinChennai.jpg?v=1743247545",
       "price": "7500",
       "precuations": "Lock brakes before getting in or out. Regularly inspect for loose screws.",
       "usedFor": "Elder mobility support",
       "sideEffects": "None when used properly.",
       "brand": "Karma",
-      "category": "Elderly Care"
+      "category": "Elderly Care",
+      "id": "39"
     },
     {
-      "id": "40",
       "name": "Hot Water Bag",
-      "image": "https://example.com/hotwaterbag.jpg",
+      "image": "https://d29azk3rh443yy.cloudfront.net/static/Products/Hot-water-bag-1.webp",
       "price": "180",
       "precuations": "Do not fill with boiling water. Check for leaks before use.",
       "usedFor": "Muscle and joint pain relief",
       "sideEffects": "May cause burns if used on bare skin or with very hot water.",
       "brand": "Flamingo",
-      "category": "Elderly Care"
+      "category": "Elderly Care",
+      "id": "40"
+    },
+    {
+      "id": "9322",
+      "name": "Colic Aid Drops",
+      "image": "https://m.media-amazon.com/images/I/71wcmoQ0phL.jpg",
+      "price": "65.50",
+      "precuations": "Use only as directed by the paediatrician; the correct dose depends on age/weight.\nIf there is no improvement in symptoms (colic/gas) or if symptoms worsen, consult the doctor.\nStore the bottle in a cool, dry place away from direct sunlight, and keep out of reach of children.",
+      "usedFor": "Relief of infantile colic, gas/flatulence",
+      "sideEffects": "Bloating, heartburn, dizziness.",
+      "brand": "Colicaid Drops",
+      "category": "Mother and Baby Care"
     }
   ],
   "user": [
