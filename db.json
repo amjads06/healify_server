@@ -463,6 +463,7 @@
         {
           "medicineId": 1,
           "name": "Paracetamol 500mg",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEAQA8ws9_de41fCd3iTOa82dOMIDMxO1Bg&s",
           "price": "25",
           "quantity": 2
         },
@@ -480,7 +481,21 @@
       "password": "fiza123",
       "phone": "9123456780",
       "gmail": "fiza@gmail.com",
-      "Cart": [],
+      "Cart": [
+        {
+          "medicineId": 1,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNEAQA8ws9_de41fCd3iTOa82dOMIDMxO1Bg&s",
+          "name": "Paracetamol 500mg",
+          "price": "25",
+          "quantity": 2
+        },
+        {
+          "medicineId": 2,
+          "name": "Vitamin C Tablets",
+          "price": "150",
+          "quantity": 3
+        }
+      ],
       "status": "Accepted"
     },
     {
@@ -555,6 +570,44 @@
           "quantity": 1,
           "price": 150,
           "subtotal": 150
+        }
+      ]
+    },
+    {
+      "id": "e245",
+      "userId": "u2",
+      "userName": "Fiza",
+      "gmail": "fiza@gmail.com",
+      "phone": "9123456780",
+      "deliveryAddress": "Fiza Villa",
+      "paymentStatus": "pending",
+      "orderedItems": [
+        {
+          "medicineId": 1,
+         
+          "name": "Paracetamol 500mg",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "6112",
+      "userId": "u2",
+      "userName": "Fiza",
+      "gmail": "fiza@gmail.com",
+      "phone": "09074874639",
+      "deliveryAddress": "Fizza Villa",
+      "paymentStatus": "pending",
+      "orderedItems": [
+        {
+          "medicineId": 1,
+          "name": "Paracetamol 500mg",
+          "quantity": 2
+        },
+        {
+          "medicineId": 2,
+          "name": "Vitamin C Tablets",
+          "quantity": 3
         }
       ]
     }
