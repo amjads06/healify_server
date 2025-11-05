@@ -21,6 +21,6 @@ healifyServer.use(router)
 
 // 8.tell server to losten for client requests
 healifyServer.listen(PORT,()=>{
-    console.log(`Resume builder started at PORT number ${PORT}`);
+    console.log(`Healify_server started at PORT number ${PORT}`);
     
 })
