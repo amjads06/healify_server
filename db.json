@@ -527,7 +527,16 @@
       "phone": "8304030540",
       "gmail": "amjadshaji06@gmail.com",
       "password": "amjads06",
-      "Cart": [],
+      "Cart": [
+        {
+          "medicineId": "2",
+          "name": "Himalaya Face Wash",
+          "price": "85",
+          "image": "https://themedihubpharma.in/wp-content/uploads/2024/04/Himalaya-Purifying-Neem-Face-Wash-For-Acne-and-Pimple-Relief-100ml.png",
+          "brand": "Himalaya",
+          "quantity": 1
+        }
+      ],
       "status": "Pending"
     },
     {
